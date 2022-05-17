@@ -131,7 +131,6 @@ source ~/.scripts/cp.sh
 # custom prompt
 # trim long directories
 PROMPT_DIRTRIM=3
-
 # change the first number of the first line after printf
 # between 2 and 0 for dim/bright time
 PS1=$(
