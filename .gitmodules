@@ -1,0 +1,3 @@
+[submodule "screen_savers"]
+	path = screen_savers
+	url = https://github.com/CharlesJordanH/screen_savers.git
